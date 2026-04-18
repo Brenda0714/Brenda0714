@@ -20,10 +20,16 @@
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
-<p class="row" align="left">
-<a href="www.linkedin.com/in/brenda-cavazos-41535a38b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /></a>
+
+<h3>Languages and Tools:</h3>
+
+<div style="display: flex; flex-direction: row; gap: 15px; align-items: center; flex-wrap: wrap;">
+  <a href="www.linkedin.com/in/brenda-cavazos-41535a38b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /></a>
   <a href="https://www.instagram.com/chinos.art14?igsh=MXE1dTh1emZuMWkwbg==" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/144-1442428_instagram-logo-instagram-png-transparent-png.png" alt="instagram" height="40" width="50" /></a>
     <a href="https://www.artstation.com/stef04142" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-1024.png" alt="artstation" height="50" width="50" /></a>
+</div>
+<p class="row" align="left">
+
 </p>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
