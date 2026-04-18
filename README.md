@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/brenda-cavazos-41535a38b/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/chinos.art14?igsh=MXE1dTh1emZuMWkwbg==" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="instagram" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/chinos.art14?igsh=MXE1dTh1emZuMWkwbg==" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="40" width="40" /></a>
   <a href="https://www.artstation.com/stef04142" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" alt="artstation" height="40" width="40" /></a>
 </p>
 
