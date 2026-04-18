@@ -20,9 +20,9 @@
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p class="row" align="left">
 <a href="www.linkedin.com/in/brenda-cavazos-41535a38b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /></a>
-  <a href="https://www.instagram.com/chinos.art14?igsh=MXE1dTh1emZuMWkwbg==" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="instagram" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/chinos.art14?igsh=MXE1dTh1emZuMWkwbg==" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/144-1442428_instagram-logo-instagram-png-transparent-png.png" alt="instagram" height="40" width="40" /></a>
     <a href="https://www.artstation.com/stef04142" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-1024.png" alt="artstation" height="50" width="50" /></a>
 </p>
 
@@ -56,18 +56,4 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-------
-<!--
-**Brenda0714/Brenda0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
